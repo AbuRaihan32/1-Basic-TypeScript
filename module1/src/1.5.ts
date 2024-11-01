@@ -38,7 +38,7 @@ let userObj_3 : {
 }
 
 
-// access modiy
+// access modify
 let userObj_4 : {
     readonly company : 'it bari';  // literal type --> when the value define as type;
     firstName : string;
@@ -51,4 +51,4 @@ let userObj_4 : {
     LastName : 'Mahfuz',
 }
 
-userObj_4.company = 'PH';
+// userObj_4.company = 'PH';
