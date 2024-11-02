@@ -52,6 +52,8 @@
         designation2 : "backEnd developer",
     }
 
+    console.log(fullstackDeveloper)
+
 
 // 
 }
