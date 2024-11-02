@@ -15,7 +15,7 @@ const friends = {
 };
 
 
-const {age , contact, name: {firstName}} = friends;
+const {age , contact, name: {firstName : fName}} = friends;
 
 
 
