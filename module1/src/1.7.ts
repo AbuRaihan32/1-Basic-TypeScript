@@ -33,7 +33,7 @@
     }
 
 
-    // rest operator
+    // rest operator ---> 
 
 
     const messageFriends = (...friends : string[]) =>{

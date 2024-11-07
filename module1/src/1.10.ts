@@ -1,5 +1,5 @@
 {
-//  
+//  union & intersection type
     // union type ----> similar topic with logical or in javaScript ( || )
 
 
