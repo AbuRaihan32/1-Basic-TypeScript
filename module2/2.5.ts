@@ -26,33 +26,5 @@ interface User {id: number, name : string}
     const resArr = createArr2<string, number>('shamim', 2000);
 
 
-
-
-
-
-
-    // an example 
-
-    const addCourseToStudent = <T> (student : T) =>{
-        const course = 'web development'
-        return {
-            ...student,
-            course
-        }
-    };
-
-
-
-    const student1 = addCourseToStudent({
-        name : 'mahfuz',
-        id: 222,
-    })
-
-    const student2 = addCourseToStudent({
-        name : 'abu',
-        id: 855,
-        isMarried : true
-    })
-
  //
 }
